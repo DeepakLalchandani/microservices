@@ -1,0 +1,15 @@
+#server:
+#  port:8761
+#
+#
+## Eureka server configuration
+#eureka:
+#  client:
+#    register-with-eureka: false
+#    fetch-registry: false
+#  server:
+#    waitTimeInMsWhenSyncEmpty: 0
+#
+#
+#
+#
